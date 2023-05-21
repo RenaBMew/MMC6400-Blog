@@ -1,0 +1,62 @@
+html {
+    scroll-padding-top: 5rem;
+}
+
+nav a {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: #e95f5c;
+}
+
+.modal-backdrop {
+    z-index: 1020;
+}
+
+body {
+    background-color: #cfeaff;
+}
+
+a {
+    color:#e95f5c;
+}
+
+a:hover {
+    color: #ffffff;
+    background-color: #cfeaff;
+}
+
+h1 {
+    color: #1b4e61;
+}
+
+h2, h5 {
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #e95f5c;
+}
+
+img.blog {
+    width: 80%;
+    border: 1px solid #e95f5c;
+}
+
+h1, h2 {
+    font-family: 'Special Elite', cursive;;
+    font-weight: bolder;
+    color: #e95f5c;
+}
+
+h4 {
+    font-style: italic;
+    color:#fcc14b;
+    text-align: right;
+}
+
+p {
+    font-family: 'Baloo Tamma 2', cursive;
+}
