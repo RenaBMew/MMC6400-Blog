@@ -19,6 +19,10 @@ body {
     background-color: #cfeaff;
 }
 
+.nobg {
+    background-color: transparent;
+}
+
 a {
     color:#e95f5c;
 }
